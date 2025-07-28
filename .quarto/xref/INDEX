@@ -1,0 +1,76 @@
+{
+  "index.qmd": {
+    "index.html": "b2b40b25"
+  },
+  "SECURITY.md": {
+    "SECURITY.html": "dcbe8f78"
+  },
+  "404.qmd": {
+    "404.html": "0e9d328a"
+  },
+  "posts/2021-12-27-06-sector-externo/index.qmd": {
+    "index.html": "b8e11516",
+    "index.tex": "4532a77c",
+    "index.docx": "7aac0804"
+  },
+  "posts/2022-01-10-08-ciclos-economicos-reales-rbc/index.qmd": {
+    "index.html": "a854a54a",
+    "index.tex": "7513cbc2",
+    "index.docx": "97b2f929"
+  },
+  "posts/2021-08-09-04-tipo-de-cambio/index.qmd": {
+    "index.html": "7ab6990f",
+    "index.tex": "f8309859",
+    "index.docx": "93034944"
+  },
+  "posts/2022-01-03-07-fluctuaciones-de-corto-plazo/index.qmd": {
+    "index.html": "927d46b7",
+    "index.tex": "2ca8e77f",
+    "index.docx": "92b06111"
+  },
+  "posts/2022-01-17-09-crecimiento-economico/index.qmd": {
+    "index.html": "92b786d4",
+    "index.tex": "1bc889d8",
+    "index.docx": "bba71112"
+  },
+  "posts/2021-07-19-01-conceptos-basicos/index.qmd": {
+    "index.html": "769d8b63",
+    "index.tex": "bc6f20af",
+    "index.docx": "dc242d5c"
+  },
+  "posts/2024-03-31-por-editar/index.qmd": {
+    "index.html": "cb80a2ff",
+    "index.tex": "194e1061",
+    "index.docx": "26bbc917"
+  },
+  "posts/2021-08-02-03-teoria-de-la-inversion/index.qmd": {
+    "index.html": "10d8c3f3",
+    "index.tex": "3a918265",
+    "index.docx": "201ac6ce"
+  },
+  "posts/2025-05-11-teoria-y-politica-monetaria-bcrp/index.qmd": {
+    "index.html": "18de9c51",
+    "index.tex": "44608125",
+    "index.docx": "b889961a"
+  },
+  "posts/2021-07-26-02-teoria-de-consumo/index.qmd": {
+    "index.html": "7521259e",
+    "index.tex": "10a9c449",
+    "index.docx": "a6bf6afb"
+  },
+  "posts/2022-01-31-11-modelos-de-empleo/index.qmd": {
+    "index.html": "63cef2b1",
+    "index.tex": "f729b9f7",
+    "index.docx": "395a3601"
+  },
+  "posts/2022-01-24-10-economia-monetaria/index.qmd": {
+    "index.html": "2dd91f65",
+    "index.tex": "250c3e01",
+    "index.docx": "e162891c"
+  },
+  "posts/2021-12-20-05-modelo-de-mundell-fleming/index.qmd": {
+    "index.html": "94ecc647",
+    "index.tex": "f9b46cc0",
+    "index.docx": "8595f6f7"
+  }
+}
