@@ -26,10 +26,7 @@ categories:
   - Desarrollo Web
   - Herramientas para R
 tags:
-  - RStudio
-  - Blogdown
-  - Comandos
-  - DesarrolloWeb
+  - macroeconomic
 
 # Nota del Autor
 author-note:
