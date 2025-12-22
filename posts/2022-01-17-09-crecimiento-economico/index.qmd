@@ -32,6 +32,7 @@ citation:
   pdf-url: https://aequilibria.netlify.app/posts/2022-01-17-09-crecimiento-economico/index.pdf
 date: 01/17/2022
 draft: true
+image: ../featured.jpg
 ---
 
 Este artículo está actualmente en proceso de edición, y todas las secciones serán ampliadas y refinadas en futuras revisiones.

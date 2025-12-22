@@ -1,78 +1,44 @@
 ---
-documentmode: stu  # Modo de documento: Can be jou (journal), man (manuscript), stu (student), or doc (document)
-    # - man (Manuscrito): Similar al formato .docx
-    # - jou (Revista): Un formato pulido de dos columnas similar a muchas revistas APA.
-    # - doc (Documento): Similar al predeterminado LaTex artículos.
-    # - stu (Estudiante): Formateado para trabajos de estudiantes
-# MODO ESTUDIANTE (STU)
+documentmode: stu
 course: Teoría y política monetaria
 professor: Dr. Zenón Quispe Misaico
 duedate: 05/11/2025
-# MODO REVISTA (JOU)
-# journal: The American Economic Review # Econometrica, The American Economic Review, Revista de Economía, Revista de la CEPAL
-# volume: 2025, Vol. 131, No. 2, 10--60
 copyrightnotice: 2025
 copyrightext: All rights reserved
-# image: featured.png
-title: Teoría y política monetaria
-subtitle: Editar
-shorttitle: "Editar"
-abstract: |
-  Descubre cómo crear tu propio sitio web estático con Blogdown, una herramienta poderosa que combina R Markdown y Hugo. Aprende a usar comandos sencillos para personalizar, construir y alojar tu sitio web de manera fácil y rápida. ¡Comienza tu proyecto web hoy mismo!
-keywords: [keyword1, keyword2]
+title: Política monetaria del BCRP
+subtitle: teoría y práctica
+keywords:
+- keyword1
+- keyword2
 categories:
-  - Macroeconomia
-  - Blogdown
-  - Desarrollo Web
-  - Herramientas para R
+- Macroeconomia
 tags:
-  - macroeconomic
-
-# Nota del Autor
+- macroeconomic
+- politica_monetaria
 author-note:
-  status-changes: 
-    # Ejemplo: [Nombre del autor] está ahora en [afiliación].
-    affiliation-change: ~
-    # Ejemplo: [Nombre del autor] ha fallecido.
-    deceased: ~
-  # Las divulgaciones se condensan en un párrafo, pero puede iniciar un campo con dos saltos de línea para separarlas: \n\nNew 
+  status-changes:
+    affiliation-change: null
+    deceased: null
   disclosures:
-    # Ejemplo: Este estudio se registró en X (Identificador Y).
-    study-registration: ~
-    # Reconozca y cite los datos/materiales que se van a compartir.
-    data-sharing: ~
-    # Ejemplo: Este artículo se basa en datos publicados en [Referencia].
-    # Ejemplo: Este artículo se basa en la disertación realizada por [cita].
-    related-report: ~
-    # Ejemplo: [Nombre del autor] ha sido consultor remunerado de la Corporación X, que ha financiado este estudio.
+    study-registration: null
+    data-sharing: null
+    related-report: null
     conflict-of-interest: El autor no tiene conflictos de interés que revelar.
-    # Ejemplo: Este estudio ha contado con el apoyo de la subvención [Número de subvención] de [Fuente de financiación].
-    financial-support: ~
-    # Ejemplo: Los autores agradecen a [Persona] por [Motivo].
-    gratitude: ~
-    # Ejemplo. Dado que los autores contribuyen por igual, el orden de autoría se determinó mediante el lanzamiento de una moneda al aire.
-    authorship-agreements: ~
-
-description: '' # Texto que se muestra debajo de las etiquetas, no en la página del listado
-# links:
-# - icon: pin-map-fill
-#   name: Collection of maps
-#   url: /project/2024-06-16-ccd-sips #./../talk/2021-03-16-xaringan-deploy-demo/
-# - icon: github
-#   icon_pack: fab
-#   name: R-Ladies template files
-#   url: https://github.com/spcanelon/RLadies-xaringan-template
-# Google Scholar
-# bibliography: mybibliography.bib
+    financial-support: null
+    gratitude: null
+    authorship-agreements: null
+description: Análisis de los instrumentos y objetivos de política monetaria del Banco
+  Central de Reserva del Perú, inflación objetivo y respuestas ante shocks externos.
+eval: true
 citation:
   type: article-journal
   author:
-    - Edison Achalma
-  pdf-url: https://achalmaedison.netlify.app/macroeconomia/posts/2024-03-31-por-editar/index.pdf
-date: "05/11/2025"
-draft: false  # Modo de borrador (false = final, true = borrador)
-eval: true  # Habilitado para procesar el código
+  - Edison Achalma
+  pdf-url: https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp/index.pdf
+date: 05/11/2025
+draft: false
 jupyter: python3
+image: ../featured.jpg
 ---
 
 Dinero, eje central.
@@ -85,7 +51,7 @@ Bitcoin, activo altamente especulativo.
 -   Dinámico, Ajuste de acuerdo a las necesidades
 -   Estocástico (aleatorio)
 
-::: {#7480d949 .cell}
+::: {#be16d93a .cell}
 ``` {.python .cell-code}
 import matplotlib.pyplot as plt
 import numpy as np
@@ -178,19 +144,18 @@ lo que mehos hecho es caracterizar el recurso disponible
 Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:
 
 
-1. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/macroeconomia/posts/2021-07-19-01-conceptos-basicos/index.pdf) [01 Conceptos Basicos](https://achalmaedison.netlify.app/macroeconomia/posts/2021-07-19-01-conceptos-basicos)
-2. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/macroeconomia/posts/2021-07-26-02-teoria-de-consumo/index.pdf) [02 Teoria De Consumo](https://achalmaedison.netlify.app/macroeconomia/posts/2021-07-26-02-teoria-de-consumo)
-3. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/macroeconomia/posts/2021-08-02-03-teoria-de-la-inversion/index.pdf) [03 Teoria De La Inversion](https://achalmaedison.netlify.app/macroeconomia/posts/2021-08-02-03-teoria-de-la-inversion)
-4. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/macroeconomia/posts/2021-08-09-04-tipo-de-cambio/index.pdf) [04 Tipo De Cambio](https://achalmaedison.netlify.app/macroeconomia/posts/2021-08-09-04-tipo-de-cambio)
-5. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/macroeconomia/posts/2021-12-20-05-modelo-de-mundell-fleming/index.pdf) [05 Modelo De Mundell Fleming](https://achalmaedison.netlify.app/macroeconomia/posts/2021-12-20-05-modelo-de-mundell-fleming)
-6. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/macroeconomia/posts/2021-12-27-06-sector-externo/index.pdf) [06 Sector Externo](https://achalmaedison.netlify.app/macroeconomia/posts/2021-12-27-06-sector-externo)
-7. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/macroeconomia/posts/2022-01-03-07-fluctuaciones-de-corto-plazo/index.pdf) [07 Fluctuaciones De Corto Plazo](https://achalmaedison.netlify.app/macroeconomia/posts/2022-01-03-07-fluctuaciones-de-corto-plazo)
-8. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/macroeconomia/posts/2022-01-10-08-ciclos-economicos-reales-rbc/index.pdf) [08 Ciclos Economicos Reales Rbc](https://achalmaedison.netlify.app/macroeconomia/posts/2022-01-10-08-ciclos-economicos-reales-rbc)
-9. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/macroeconomia/posts/2022-01-17-09-crecimiento-economico/index.pdf) [09 Crecimiento Economico](https://achalmaedison.netlify.app/macroeconomia/posts/2022-01-17-09-crecimiento-economico)
-10. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/macroeconomia/posts/2022-01-24-10-economia-monetaria/index.pdf) [10 Economia Monetaria](https://achalmaedison.netlify.app/macroeconomia/posts/2022-01-24-10-economia-monetaria)
-11. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/macroeconomia/posts/2022-01-31-11-modelos-de-empleo/index.pdf) [11 Modelos De Empleo](https://achalmaedison.netlify.app/macroeconomia/posts/2022-01-31-11-modelos-de-empleo)
-12. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/macroeconomia/posts/2024-03-31-por-editar/index.pdf) [Por Editar](https://achalmaedison.netlify.app/macroeconomia/posts/2024-03-31-por-editar)
-13. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/macroeconomia/posts/2025-05-11-teoria-y-politica-monetaria-bcrp/index.pdf) [Teoria Y Politica Monetaria Bcrp](https://achalmaedison.netlify.app/macroeconomia/posts/2025-05-11-teoria-y-politica-monetaria-bcrp)
+1. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2021-07-19-01-conceptos-basicos/index.pdf) [01 Conceptos Basicos](https://aequilibria.netlify.app/posts/2021-07-19-01-conceptos-basicos)
+2. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2021-07-26-02-teoria-de-consumo/index.pdf) [02 Teoria De Consumo](https://aequilibria.netlify.app/posts/2021-07-26-02-teoria-de-consumo)
+3. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2021-08-02-03-teoria-de-la-inversion/index.pdf) [03 Teoria De La Inversion](https://aequilibria.netlify.app/posts/2021-08-02-03-teoria-de-la-inversion)
+4. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2021-08-09-04-tipo-de-cambio/index.pdf) [04 Tipo De Cambio](https://aequilibria.netlify.app/posts/2021-08-09-04-tipo-de-cambio)
+5. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2021-12-20-05-modelo-de-mundell-fleming/index.pdf) [05 Modelo De Mundell Fleming](https://aequilibria.netlify.app/posts/2021-12-20-05-modelo-de-mundell-fleming)
+6. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2021-12-27-06-sector-externo/index.pdf) [06 Sector Externo](https://aequilibria.netlify.app/posts/2021-12-27-06-sector-externo)
+7. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2022-01-03-07-fluctuaciones-de-corto-plazo/index.pdf) [07 Fluctuaciones De Corto Plazo](https://aequilibria.netlify.app/posts/2022-01-03-07-fluctuaciones-de-corto-plazo)
+8. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2022-01-10-08-ciclos-economicos-reales-rbc/index.pdf) [08 Ciclos Economicos Reales Rbc](https://aequilibria.netlify.app/posts/2022-01-10-08-ciclos-economicos-reales-rbc)
+9. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2022-01-17-09-crecimiento-economico/index.pdf) [09 Crecimiento Economico](https://aequilibria.netlify.app/posts/2022-01-17-09-crecimiento-economico)
+10. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2022-01-24-10-economia-monetaria/index.pdf) [10 Economia Monetaria](https://aequilibria.netlify.app/posts/2022-01-24-10-economia-monetaria)
+11. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2022-01-31-11-modelos-de-empleo/index.pdf) [11 Modelos De Empleo](https://aequilibria.netlify.app/posts/2022-01-31-11-modelos-de-empleo)
+12. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp/index.pdf) [Teoria Y Politica Monetaria Bcrp](https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp)
 
 
 Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!

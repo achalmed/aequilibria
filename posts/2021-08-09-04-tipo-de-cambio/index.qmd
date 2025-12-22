@@ -32,6 +32,7 @@ citation:
   pdf-url: https://aequilibria.netlify.app/posts/2021-08-09-04-tipo-de-cambio/index.pdf
 date: 08/09/2021
 draft: true
+image: ../featured.jpg
 ---
 
 Este artículo está actualmente en proceso de edición, y todas las secciones serán ampliadas y refinadas en futuras revisiones.

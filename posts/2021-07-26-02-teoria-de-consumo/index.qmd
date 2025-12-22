@@ -33,6 +33,7 @@ citation:
   pdf-url: https://aequilibria.netlify.app/posts/2021-07-26-02-teoria-de-consumo/index.pdf
 date: 07/26/2021
 draft: true
+image: ../featured.jpg
 ---
 
 Este artículo está actualmente en proceso de edición, y todas las secciones serán ampliadas y refinadas en futuras revisiones.
