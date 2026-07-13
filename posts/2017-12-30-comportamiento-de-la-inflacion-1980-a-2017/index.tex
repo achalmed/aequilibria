@@ -82,6 +82,7 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \usepackage{longtable,booktabs,array}
+\newcounter{none} % for unnumbered tables
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
@@ -210,6 +211,10 @@ Cristóbal de Huamanga, Portal Independencia N°
 
 
 
+\hypersetup{
+  pdftitle={El Comportamiento de la Inflaci\'{o}n en el Per\'{u}},
+  pdfauthor={Autor}
+}
 \makeatletter
 \@ifpackageloaded{caption}{}{\usepackage{caption}}
 \AtBeginDocument{%
@@ -723,6 +728,7 @@ dentro de rangos moderados, aunque con cierta volatilidad explicada por
 factores externos como los precios de los commodities y fenómenos
 climáticos.
 
+{\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}
   >{\centering\arraybackslash}p{(\linewidth - 14\tabcolsep) * \real{0.1250}}
   >{\centering\arraybackslash}p{(\linewidth - 14\tabcolsep) * \real{0.1250}}
@@ -765,6 +771,7 @@ Tasa de Inflación (\%)
 1988 & 1,722.3 & 1998 & 6.0 & 2008 & 6.7 & & \\
 1989 & 2,775.0 & 1999 & 3.7 & 2009 & 0.2 & & \\
 \end{longtable}
+}
 
 \emph{Fuente: Elaboración propia con datos del Banco Central de Reserva
 del Perú (BCRP) e Instituto Nacional de Estadística e Informática
@@ -1075,6 +1082,7 @@ Bibliográficas}\label{referencias-bibliogruxe1ficas}
 \subsection{Anexo Estadístico: Tablas de Datos de
 Inflación}\label{anexo-estaduxedstico-tablas-de-datos-de-inflaciuxf3n}
 
+{\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}lll@{}}
 \toprule\noalign{}
 Año & Inflación Anual (\%) & Gobierno de Turno \\
@@ -1121,6 +1129,7 @@ Año & Inflación Anual (\%) & Gobierno de Turno \\
 2016 & 3.2 & Pedro Pablo Kuczynski \\
 2017 & 1.4 & Pedro Pablo Kuczynski \\
 \end{longtable}
+}
 
 \emph{Fuente: Elaboración propia con datos del BCRP e INEI.}
 

@@ -17,7 +17,7 @@ Incluye notas y tutoriales para mi futuro y espero que también para ti.&lt;br&g
 <title>Edison Achalma B.Sc. Econ.</title>
 <link>https://aequilibria.netlify.app/</link>
 </image>
-<generator>quarto-1.8.26</generator>
+<generator>quarto-1.9.38</generator>
 <lastBuildDate>Sun, 11 May 2025 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Política monetaria del BCRP</title>
@@ -25,42 +25,47 @@ Incluye notas y tutoriales para mi futuro y espero que también para ti.&lt;br&g
   <link>https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp/</link>
   <description><![CDATA[ 
 
+
 <style>
-:root {
---primary-color: ;
-}
-#title-block-header {
-width: 100%;
-overflow: hidden;
-position: relative;
-}
-.title-block-content {
-position: relative;
-padding-top: 60px;
+  :root {
+    --primary-color: ;
+  }
 
-padding-bottom: 60px;
+  #title-block-header {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+  }
 
-max-width: 752px;
-margin: 0 auto;
-z-index: 1;
-}
-#particles-js {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-z-index: 0;
-}
-.bg-image {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-object-fit: cover;
-z-index: 0;
-}
+  .title-block-content {
+    position: relative;
+    padding-top: 60px;
+    /* Reducido de 130px */
+    padding-bottom: 60px;
+    /* Reducido de 130px */
+    max-width: 752px;
+    margin: 0 auto;
+    z-index: 1;
+  }
+
+  #particles-js {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+  }
+
+  .bg-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+  }
 </style>
 
 
@@ -75,9 +80,7 @@ z-index: 0;
 <li>Dinámico, Ajuste de acuerdo a las necesidades</li>
 <li>Estocástico (aleatorio)</li>
 </ul>
-<div id="be16d93a" class="cell">
-<details class="code-fold">
-<summary>Mostrar el código</summary>
+<div id="cd03d68c" class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
 background-color: null;
 font-style: inherit;">import</span> matplotlib.pyplot <span class="im" style="color: #00769E;
@@ -254,7 +257,6 @@ font-style: inherit;"># Guardar el gráfico</span></span>
 <span id="cb1-34"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">#plt.savefig('happiness_over_time.png')</span></span></code></pre></div></div>
-</details>
 </div>
 <p>Token Vale</p>
 <ul>
@@ -280,10 +282,11 @@ font-style: inherit;">#plt.savefig('happiness_over_time.png')</span></span></cod
 <p><img src="https://latex.codecogs.com/png.latex?%5Cbeta_%7Bt-1%7D(1+R_%7Bt-1%7D)"> : ahorro capitalizado</p>
 <p><img src="https://latex.codecogs.com/png.latex?T_%7Bt%7D">: impuesto</p>
 <p>lo que mehos hecho es caracterizar el recurso disponible</p>
-<section id="publicaciones-similares" class="level1">
-<h1>Publicaciones Similares</h1>
+<section id="publicaciones-similares" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Publicaciones Similares</h1>
 <p>Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:</p>
 <ol type="1">
+<li><a href="https://aequilibria.netlify.app/posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017">Comportamiento De La Inflacion 1980 A 2017</a></li>
 <li><a href="https://aequilibria.netlify.app/posts/2021-07-19-01-conceptos-basicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2021-07-19-01-conceptos-basicos">01 Conceptos Basicos</a></li>
 <li><a href="https://aequilibria.netlify.app/posts/2021-07-26-02-teoria-de-consumo/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2021-07-26-02-teoria-de-consumo">02 Teoria De Consumo</a></li>
 <li><a href="https://aequilibria.netlify.app/posts/2021-08-02-03-teoria-de-la-inversion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2021-08-02-03-teoria-de-la-inversion">03 Teoria De La Inversion</a></li>
@@ -303,8 +306,8 @@ font-style: inherit;">#plt.savefig('happiness_over_time.png')</span></span></cod
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2025" class="csl-entry quarto-appendix-citeas">
-Achalma, Edison. 2025. <span>“Política monetaria del BCRP,”</span> May.
-<a href="https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp/">https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp/</a>.
+Achalma, Edison. 2025. <em>Política monetaria del BCRP</em>. accepted,
+May 11. <a href="https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp/">https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp/</a>.
 </div></div></section></div> ]]></description>
   <category>Macroeconomia</category>
   <guid>https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp/</guid>
@@ -312,10 +315,121 @@ Achalma, Edison. 2025. <span>“Política monetaria del BCRP,”</span> May.
   <media:content url="https://aequilibria.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://aequilibria.netlify.app/posts/2022-01-31-11-modelos-de-empleo/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Macroeconomia</category>
+  <guid>https://aequilibria.netlify.app/posts/2022-01-31-11-modelos-de-empleo/</guid>
+  <pubDate>Mon, 31 Jan 2022 05:00:00 GMT</pubDate>
+  <media:content url="https://aequilibria.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://aequilibria.netlify.app/posts/2022-01-24-10-economia-monetaria/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Macroeconomia</category>
+  <guid>https://aequilibria.netlify.app/posts/2022-01-24-10-economia-monetaria/</guid>
+  <pubDate>Mon, 24 Jan 2022 05:00:00 GMT</pubDate>
+  <media:content url="https://aequilibria.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://aequilibria.netlify.app/posts/2022-01-17-09-crecimiento-economico/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Macroeconomia</category>
+  <guid>https://aequilibria.netlify.app/posts/2022-01-17-09-crecimiento-economico/</guid>
+  <pubDate>Mon, 17 Jan 2022 05:00:00 GMT</pubDate>
+  <media:content url="https://aequilibria.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://aequilibria.netlify.app/posts/2022-01-10-08-ciclos-economicos-reales-rbc/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Macroeconomia</category>
+  <guid>https://aequilibria.netlify.app/posts/2022-01-10-08-ciclos-economicos-reales-rbc/</guid>
+  <pubDate>Mon, 10 Jan 2022 05:00:00 GMT</pubDate>
+  <media:content url="https://aequilibria.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://aequilibria.netlify.app/posts/2022-01-03-07-fluctuaciones-de-corto-plazo/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Macroeconomia</category>
+  <guid>https://aequilibria.netlify.app/posts/2022-01-03-07-fluctuaciones-de-corto-plazo/</guid>
+  <pubDate>Mon, 03 Jan 2022 05:00:00 GMT</pubDate>
+  <media:content url="https://aequilibria.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://aequilibria.netlify.app/posts/2021-12-27-06-sector-externo/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Macroeconomia</category>
+  <guid>https://aequilibria.netlify.app/posts/2021-12-27-06-sector-externo/</guid>
+  <pubDate>Mon, 27 Dec 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://aequilibria.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://aequilibria.netlify.app/posts/2021-12-20-05-modelo-de-mundell-fleming/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Macroeconomia</category>
+  <guid>https://aequilibria.netlify.app/posts/2021-12-20-05-modelo-de-mundell-fleming/</guid>
+  <pubDate>Mon, 20 Dec 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://aequilibria.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://aequilibria.netlify.app/posts/2021-08-09-04-tipo-de-cambio/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Macroeconomia</category>
+  <guid>https://aequilibria.netlify.app/posts/2021-08-09-04-tipo-de-cambio/</guid>
+  <pubDate>Mon, 09 Aug 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://aequilibria.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://aequilibria.netlify.app/posts/2021-08-02-03-teoria-de-la-inversion/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Macroeconomia</category>
+  <guid>https://aequilibria.netlify.app/posts/2021-08-02-03-teoria-de-la-inversion/</guid>
+  <pubDate>Mon, 02 Aug 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://aequilibria.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://aequilibria.netlify.app/posts/2021-07-26-02-teoria-de-consumo/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Macroeconomia</category>
+  <guid>https://aequilibria.netlify.app/posts/2021-07-26-02-teoria-de-consumo/</guid>
+  <pubDate>Mon, 26 Jul 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://aequilibria.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Edison Achalma</dc:creator>
+  <link>https://aequilibria.netlify.app/posts/2021-07-19-01-conceptos-basicos/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>Macroeconomia</category>
+  <guid>https://aequilibria.netlify.app/posts/2021-07-19-01-conceptos-basicos/</guid>
+  <pubDate>Mon, 19 Jul 2021 05:00:00 GMT</pubDate>
+  <media:content url="https://aequilibria.netlify.app/posts/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>El Comportamiento de la Inflación en el Perú</title>
   <dc:creator>Edison Achalma</dc:creator>
   <link>https://aequilibria.netlify.app/posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017/</link>
   <description><![CDATA[ 
+
 
 <style>
   :root {
@@ -362,27 +476,27 @@ Achalma, Edison. 2025. <span>“Política monetaria del BCRP,”</span> May.
 
 
 
-<section id="resumen-ejecutivo" class="level1">
-<h1>Resumen Ejecutivo</h1>
+<section id="resumen-ejecutivo" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> Resumen Ejecutivo</h1>
 <p>El presente estudio analiza de manera exhaustiva el comportamiento de la inflación en el Perú durante el período comprendido entre 1980 y 2017, un lapso que abarca desde la profunda crisis macroeconómica de la década de los ochenta hasta la consolidación de un régimen de estabilidad de precios en el siglo XXI. La investigación revela una trayectoria inflacionaria extraordinaria, caracterizada por un arco que va desde la hiperinflación más devastadora de la historia del país hasta tasas de inflación de un dígito, comparables con las de economías desarrolladas. Este recorrido histórico permite identificar claramente tres grandes etapas: un primer período de crisis (1980-1990), marcado por la hiperinflación y el colapso económico; un segundo período de transición y estabilización (1990-2002), donde se implementaron reformas estructurales que sentaron las bases para la estabilidad macroeconómica; y un tercer período de consolidación (2002-2017), en el cual el Perú adoptó un esquema de Metas Explícitas de Inflación, logrando mantener la inflación dentro de rangos meta y estableciendo un ancla de credibilidad para las expectativas económicas. El análisis demuestra que la inflación peruana no ha sido un fenómeno monolítico, sino que ha estado profundamente influenciada por factores tanto internos —como las políticas fiscales y monetarias, los desequilibrios macroeconómicos y los choques de oferta internos— como externos —como la volatilidad de los precios internacionales de commodities, los fenómenos climáticos extremos y las condiciones de la economía global.</p>
 <p>El núcleo central del análisis se centra en el período crítico de la década de 1980, específicamente durante el primer gobierno de Alan García Pérez (1985-1990), cuando el Perú experimentó su único episodio de hiperinflación. La investigación detalla cómo un conjunto de políticas económicas heterodoxas, basadas en el control de precios, el congelamiento del tipo de cambio y una política fiscal y monetaria expansiva, desembocaron en un desastre económico de proporciones históricas. En 1989, la tasa de inflación alcanzó su punto máximo, superando el <strong>2,775% anual</strong>, lo que provocó la destrucción de dos monedas nacionales (el sol y el inti) y un colapso del producto interno bruto (PIB) de más del 20% entre 1988 y 1990. La hiperinflación empobreció severamente a la población, especialmente a las clases trabajadoras, y llevó al país a un aislamiento total de los mercados financieros internacionales. El estudio documenta cómo este período de “hiper-estanflación” —una combinación letal de hiperinflación y recesión económica— sirvió como catalizador para un cambio radical en el modelo económico. La estabilización final llegó con el gobierno de Alberto Fujimori, quien implementó en 1990 el conocido “Fujishock”, un programa de ajuste drástico que incluyó la liberalización del tipo de cambio, el saneamiento de las finanzas públicas y una estricta disciplina monetaria, sentando las bases para la erradicación de la hiperinflación y el inicio de un nuevo ciclo económico.</p>
 <p>En contraste con el pasado volátil, el estudio analiza los factores que han permitido al Perú mantener una inflación controlada en el siglo XXI, particularmente en el período 2015-2017. Durante estos años, la inflación anual se situó en niveles históricamente bajos, alcanzando el <strong>1.36% en 2017</strong>, la tasa más baja en ocho años . La investigación identifica varios elementos clave que explican este desempeño. En primer lugar, la implementación del esquema de Metas Explícitas de Inflación por parte del Banco Central de Reserva del Perú (BCRP) ha sido fundamental para anclar las expectativas inflacionarias y dotar de credibilidad a la política monetaria. En segundo lugar, factores de oferta han jugado un papel crucial, como la reversión de los choques de oferta de años previos (como el Fenómeno del Niño Costero de 2017), que provocaron una caída en los precios de alimentos y energía . Además, se destaca el papel de la apreciación de la moneda nacional, el sol, que moderó los efectos de los precios internacionales de importaciones. Finalmente, el estudio señala que un crecimiento económico moderado, junto con una demanda interna contenida y la ausencia de presiones salariales significativas, han contribuido a mantener las presiones inflacionarias bajo control, permitiendo que la inflación se mantenga cómodamente dentro del rango meta del BCRP de <strong>1% a 3%</strong> .</p>
 </section>
-<section id="introducción" class="level1">
-<h1>Introducción</h1>
+<section id="introducción" class="level1" data-number="2">
+<h1 data-number="2"><span class="header-section-number">2</span> Introducción</h1>
 <p>La inflación constituye uno de los fenómenos económicos más relevantes y complejos de la macroeconomía moderna. Se define como la subida generalizada y continua del nivel de precios de los bienes y servicios en una economía durante un período determinado . Este proceso implica una pérdida del poder adquisitivo de la moneda, ya que cada unidad de dinero puede comprar una cantidad menor de productos. La medición de la inflación se realiza principalmente a través del Índice de Precios al Consumidor (IPC), el cual mide la variación porcentual en el costo de una canasta de consumo representativa en relación con un período base . Es importante distinguir la inflación de otros fenómenos como la deflación, que es la disminución generalizada de precios y que, aunque pueda parecer beneficiosa para los consumidores en un primer análisis, suele estar asociada a períodos de crisis económica y recesión, con graves consecuencias socioeconómicas .</p>
 <p>Según el economista Jiménez (2006), la inflación es “la elevación del nivel agregado de precios de una economía” y se mide precisamente a través de la variación del IPC. Esta definición enfatiza dos características fundamentales del fenómeno: su carácter generalizado, ya que no se refiere al aumento de un precio individual sino al conjunto de precios de la economía, y su persistencia en el tiempo, lo que la distingue de fluctuaciones puntuales de precios. El IPC, como instrumento de medición, se construye a partir de una canasta de consumo representativa que refleja los patrones de gasto de los hogares en un período base determinado. La inflación implica necesariamente una pérdida del poder adquisitivo de la moneda, fenómeno que afecta de manera diferenciada a los distintos agentes económicos, beneficiando a los deudores (que pagan deudas con dinero de menor valor real) y perjudicando a los acreedores y a quienes mantienen sus ahorros en moneda nacional.</p>
 <p>El estudio del comportamiento de la inflación en el Perú adquiere una relevancia particular debido a la extraordinaria volatilidad que ha caracterizado a su economía en las últimas cuatro décadas. El país ha experimentado, en un lapso relativamente corto, los extremos del fenómeno inflacionario: desde la hiperinflación más severa de su historia, con tasas anuales que superaron el <strong>7,000% en 1990</strong>, hasta períodos de deflación, como el registrado en 2001, y una prolongada etapa de estabilidad de precios con tasas de inflación de un solo dígito y, en algunos años, incluso inferiores al 2% . Esta trayectoria convierte al Perú en un caso de estudio invaluable para comprender las causas, consecuencias y mecanismos de control de la inflación.</p>
 <p>El análisis de estos períodos permite identificar los errores de política económica que desencadenaron la crisis, como la falta de disciplina fiscal, el financiamiento monetario del déficit público y la implementación de controles de precios ineficaces, así como las reformas estructurales que permitieron la estabilización y el crecimiento sostenido. Comprender este proceso no solo tiene un valor histórico, sino que proporciona lecciones fundamentales para la toma de decisiones de política pública en el presente y el futuro. El estudio de la inflación peruana permite evaluar la efectividad de diferentes marcos de política monetaria, desde el financiamiento fiscal hasta el esquema de metas de inflación, y entender cómo factores externos e internos interactúan para determinar la evolución de los precios en una economía emergente y dependiente de commodities.</p>
 </section>
-<section id="objetivos-de-la-investigación" class="level1">
-<h1>Objetivos de la Investigación</h1>
-<section id="objetivo-general" class="level2">
-<h2 class="anchored" data-anchor-id="objetivo-general">Objetivo General</h2>
+<section id="objetivos-de-la-investigación" class="level1" data-number="3">
+<h1 data-number="3"><span class="header-section-number">3</span> Objetivos de la Investigación</h1>
+<section id="objetivo-general" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="objetivo-general"><span class="header-section-number">3.1</span> Objetivo General</h2>
 <p>El objetivo general de la presente investigación es realizar un análisis exhaustivo y sistemático del comportamiento de la inflación en el Perú durante el período 1980-2017. Este análisis busca comprender en profundidad la evolución histórica del fenómeno inflacionario, identificando los principales períodos de crisis y estabilización, y explicando los factores económicos, políticos y sociales que determinaron dicha evolución.</p>
 </section>
-<section id="objetivos-específicos" class="level2">
-<h2 class="anchored" data-anchor-id="objetivos-específicos">Objetivos Específicos</h2>
+<section id="objetivos-específicos" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="objetivos-específicos"><span class="header-section-number">3.2</span> Objetivos Específicos</h2>
 <p>Para alcanzar el objetivo general, se han establecido los siguientes objetivos específicos:</p>
 <ol type="1">
 <li><p>Explicar los conceptos teóricos fundamentales relacionados con la inflación, incluyendo sus diferentes tipos (moderada, galopante, hiperinflación y estanflación), sus principales causas (tanto internas como externas) y sus consecuencias económicas y sociales. Este objetivo busca dotar al lector de las herramientas analíticas necesarias para comprender el resto del estudio.</p></li>
@@ -393,37 +507,37 @@ Achalma, Edison. 2025. <span>“Política monetaria del BCRP,”</span> May.
 </ol>
 </section>
 </section>
-<section id="discusión-teórica" class="level1">
-<h1>Discusión Teórica</h1>
-<section id="definición-de-inflación" class="level2">
-<h2 class="anchored" data-anchor-id="definición-de-inflación">Definición de Inflación</h2>
+<section id="discusión-teórica" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> Discusión Teórica</h1>
+<section id="definición-de-inflación" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="definición-de-inflación"><span class="header-section-number">4.1</span> Definición de Inflación</h2>
 <p>La inflación es conceptualizada en la literatura económica como un fenómeno de carácter monetario que se manifiesta mediante el aumento sostenido y generalizado del nivel de precios de los bienes y servicios en una economía. Según la definición proporcionada por Jiménez (2006), “la inflación es la elevación del nivel agregado de precios de una economía. Se mide como la variación porcentual en el índice de precios al consumidor (IPC)” . Esta definición enfatiza dos características fundamentales del fenómeno: su carácter generalizado, ya que no se refiere al aumento de un precio individual sino al conjunto de precios de la economía, y su persistencia en el tiempo, lo que la distingue de fluctuaciones puntuales de precios. El IPC, como instrumento de medición, se construye a partir de una canasta de consumo representativa que refleja los patrones de gasto de los hogares en un período base determinado. La inflación implica necesariamente una pérdida del poder adquisitivo de la moneda, fenómeno que afecta de manera diferenciada a los distintos agentes económicos, beneficiando a los deudores (que pagan deudas con dinero de menor valor real) y perjudicando a los acreedores y a quienes mantienen sus ahorros en moneda nacional.</p>
 </section>
-<section id="tipología-de-la-inflación" class="level2">
-<h2 class="anchored" data-anchor-id="tipología-de-la-inflación">Tipología de la Inflación</h2>
+<section id="tipología-de-la-inflación" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="tipología-de-la-inflación"><span class="header-section-number">4.2</span> Tipología de la Inflación</h2>
 <p>La clasificación de la inflación según su magnitud permite distinguir diferentes grados de severidad del fenómeno, cada uno con características y consecuencias específicas para la economía.</p>
-<section id="inflación-moderada" class="level3">
-<h3 class="anchored" data-anchor-id="inflación-moderada">Inflación Moderada</h3>
+<section id="inflación-moderada" class="level3" data-number="4.2.1">
+<h3 data-number="4.2.1" class="anchored" data-anchor-id="inflación-moderada"><span class="header-section-number">4.2.1</span> Inflación Moderada</h3>
 <p>La inflación moderada se caracteriza por tasas anuales inferiores al 10%. En este escenario, los precios suben lentamente y el poder adquisitivo de los trabajadores no se ve significativamente afectado, ya que los aumentos salariales pueden compensar, en gran medida, el incremento en el costo de vida. Este tipo de inflación es considerado normal y hasta deseable en una economía en crecimiento, ya que puede facilitar los ajustes económicos sin generar las distorsiones severas asociadas a niveles más altos de inflación.</p>
 </section>
-<section id="inflación-galopante" class="level3">
-<h3 class="anchored" data-anchor-id="inflación-galopante">Inflación Galopante</h3>
+<section id="inflación-galopante" class="level3" data-number="4.2.2">
+<h3 data-number="4.2.2" class="anchored" data-anchor-id="inflación-galopante"><span class="header-section-number">4.2.2</span> Inflación Galopante</h3>
 <p>La inflación galopante se presenta cuando la tasa de inflación anual se sitúa entre el 10% y el 1000%. En este contexto, los agentes económicos comienzan a perder confianza en la moneda y tratan de desprenderse del dinero lo más rápidamente posible, ya que su valor se deprecia rápidamente. Se observa una preferencia por mantener activos reales como bienes raíces, oro o divisas extranjeras, en lugar de dinero en efectivo. La inflación galopante genera distorsiones significativas en la economía, afectando la planificación empresarial, desalentando la inversión a largo plazo y creando incertidumbre sobre los precios relativos de los bienes y servicios.</p>
 </section>
-<section id="hiperinflación" class="level3">
-<h3 class="anchored" data-anchor-id="hiperinflación">Hiperinflación</h3>
+<section id="hiperinflación" class="level3" data-number="4.2.3">
+<h3 data-number="4.2.3" class="anchored" data-anchor-id="hiperinflación"><span class="header-section-number">4.2.3</span> Hiperinflación</h3>
 <p>La hiperinflación es el caso extremo de inflación, con tasas anuales que superan el 1000%. En esta situación, el dinero pierde prácticamente todo su valor y la economía corre el riesgo de volver a un sistema de trueque o de adoptar una moneda extranjera como medio de cambio. La hiperinflación está generalmente asociada a conflictos políticos, guerras o crisis económicas severas que llevan a los gobiernos a financiar sus gastos mediante la emisión excesiva de papel moneda. En un escenario de hiperinflación, la economía puede regresar a sistemas de trueque, ya que el dinero pierde su función como medio de intercambio y reserva de valor.</p>
 </section>
-<section id="estanflación" class="level3">
-<h3 class="anchored" data-anchor-id="estanflación">Estanflación</h3>
+<section id="estanflación" class="level3" data-number="4.2.4">
+<h3 data-number="4.2.4" class="anchored" data-anchor-id="estanflación"><span class="header-section-number">4.2.4</span> Estanflación</h3>
 <p>La estanflación es un fenómeno económico complejo que combina la inflación con un proceso de recesión económica y alto desempleo. Este escenario rompe con la relación inversa entre inflación y desempleo postulada por la curva de Phillips, que sostiene que una menor tasa de desempleo se asocia con una mayor tasa de inflación. En la estanflación, se presentan simultáneamente una alta inflación y un alto desempleo, lo que representa un desafío significativo para los responsables de la política económica. La solución a la estanflación requiere políticas económicas que actúen sobre la demanda agregada, como el aumento del gasto público, la reducción de los impuestos o el descenso de las tasas de interés, con el objetivo de estimular la producción y el empleo sin agravar la inflación.</p>
 </section>
 </section>
-<section id="causas-de-la-inflación" class="level2">
-<h2 class="anchored" data-anchor-id="causas-de-la-inflación">Causas de la Inflación</h2>
+<section id="causas-de-la-inflación" class="level2" data-number="4.3">
+<h2 data-number="4.3" class="anchored" data-anchor-id="causas-de-la-inflación"><span class="header-section-number">4.3</span> Causas de la Inflación</h2>
 <p>Según Le Roy (2001), la inflación ocurre debido a un incremento en la demanda total, lo que aumenta los precios (inflación por la demanda), o debido a un incremento en los costos de producción que empuja hacia arriba los precios de los productos terminados (inflación por alza de costos). Estas causas pueden clasificarse en internas y externas, dependiendo de su origen.</p>
-<section id="causas-internas" class="level3">
-<h3 class="anchored" data-anchor-id="causas-internas">Causas Internas</h3>
+<section id="causas-internas" class="level3" data-number="4.3.1">
+<h3 data-number="4.3.1" class="anchored" data-anchor-id="causas-internas"><span class="header-section-number">4.3.1</span> Causas Internas</h3>
 <p>Las causas internas de la inflación son aquellas que se originan dentro de la economía de un país. Entre las más importantes se encuentran:</p>
 <ul>
 <li><strong>Emisión excesiva de papel moneda:</strong> Cuando el gobierno o el banco central emiten más dinero del que la economía necesita para sus transacciones, se produce un exceso de liquidez que presiona al alza los precios. Este fue uno de los principales factores de la hiperinflación peruana de los años 80, cuando el déficit fiscal se financiaba mediante la emisión de moneda.</li>
@@ -434,8 +548,8 @@ Achalma, Edison. 2025. <span>“Política monetaria del BCRP,”</span> May.
 <li><strong>Devaluación:</strong> La devaluación de la moneda local aumenta el precio de los productos importados y de los productos nacionales que utilizan insumos importados, lo que presiona al alza la inflación.</li>
 </ul>
 </section>
-<section id="causas-externas" class="level3">
-<h3 class="anchored" data-anchor-id="causas-externas">Causas Externas</h3>
+<section id="causas-externas" class="level3" data-number="4.3.2">
+<h3 data-number="4.3.2" class="anchored" data-anchor-id="causas-externas"><span class="header-section-number">4.3.2</span> Causas Externas</h3>
 <p>Las causas externas de la inflación provienen del exterior y afectan a la economía de un país. Entre las más relevantes se encuentran:</p>
 <ul>
 <li><strong>Importación excesiva de mercancías a precios muy altos:</strong> Cuando un país importa productos a precios elevados, esto puede transmitirse a los precios internos, generando inflación.</li>
@@ -446,11 +560,11 @@ Achalma, Edison. 2025. <span>“Política monetaria del BCRP,”</span> May.
 </ul>
 </section>
 </section>
-<section id="consecuencias-de-la-inflación" class="level2">
-<h2 class="anchored" data-anchor-id="consecuencias-de-la-inflación">Consecuencias de la Inflación</h2>
+<section id="consecuencias-de-la-inflación" class="level2" data-number="4.4">
+<h2 data-number="4.4" class="anchored" data-anchor-id="consecuencias-de-la-inflación"><span class="header-section-number">4.4</span> Consecuencias de la Inflación</h2>
 <p>La inflación tiene consecuencias económicas y sociales significativas que afectan a toda la sociedad. Estas consecuencias varían en intensidad según el nivel de inflación y la estructura económica del país.</p>
-<section id="consecuencias-económicas" class="level3">
-<h3 class="anchored" data-anchor-id="consecuencias-económicas">Consecuencias Económicas</h3>
+<section id="consecuencias-económicas" class="level3" data-number="4.4.1">
+<h3 data-number="4.4.1" class="anchored" data-anchor-id="consecuencias-económicas"><span class="header-section-number">4.4.1</span> Consecuencias Económicas</h3>
 <ul>
 <li><strong>Aumento en el costo de vida:</strong> La inflación reduce el poder adquisitivo de los salarios y los ingresos, lo que significa que las personas pueden comprar menos bienes y servicios con el mismo monto de dinero.</li>
 <li><strong>Desincentivo a la inversión a largo plazo:</strong> La incertidumbre sobre los precios futuros desalienta la inversión en proyectos de largo plazo, ya que los empresarios no pueden predecir con certeza sus costos y beneficios.</li>
@@ -459,8 +573,8 @@ Achalma, Edison. 2025. <span>“Política monetaria del BCRP,”</span> May.
 <li><strong>Distorsión de los precios relativos:</strong> La inflación, especialmente cuando es muy alta, distorsiona los precios relativos de los bienes y servicios, lo que lleva a una asignación ineficiente de los recursos.</li>
 </ul>
 </section>
-<section id="consecuencias-sociales" class="level3">
-<h3 class="anchored" data-anchor-id="consecuencias-sociales">Consecuencias Sociales</h3>
+<section id="consecuencias-sociales" class="level3" data-number="4.4.2">
+<h3 data-number="4.4.2" class="anchored" data-anchor-id="consecuencias-sociales"><span class="header-section-number">4.4.2</span> Consecuencias Sociales</h3>
 <ul>
 <li><strong>Empobrecimiento de los sectores de ingresos fijos:</strong> Los jubilados, los pensionistas y los trabajadores cuyos salarios no se ajustan a la inflación sufren un deterioro en su nivel de vida.</li>
 <li><strong>Aumento de la pobreza:</strong> La inflación, especialmente la hiperinflación, puede empobrecer a grandes sectores de la población, especialmente a los más vulnerables.</li>
@@ -470,10 +584,10 @@ Achalma, Edison. 2025. <span>“Política monetaria del BCRP,”</span> May.
 </section>
 </section>
 </section>
-<section id="análisis-estadístico-del-comportamiento-de-la-inflación-1980-2017" class="level1">
-<h1>Análisis Estadístico del Comportamiento de la Inflación (1980-2017)</h1>
-<section id="panorama-general-de-la-evolución-de-la-tasa-de-inflación" class="level2">
-<h2 class="anchored" data-anchor-id="panorama-general-de-la-evolución-de-la-tasa-de-inflación">Panorama General de la Evolución de la Tasa de Inflación</h2>
+<section id="análisis-estadístico-del-comportamiento-de-la-inflación-1980-2017" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Análisis Estadístico del Comportamiento de la Inflación (1980-2017)</h1>
+<section id="panorama-general-de-la-evolución-de-la-tasa-de-inflación" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="panorama-general-de-la-evolución-de-la-tasa-de-inflación"><span class="header-section-number">5.1</span> Panorama General de la Evolución de la Tasa de Inflación</h2>
 <p>La evolución de la tasa de inflación en el Perú entre 1980 y 2017 presenta una trayectoria extraordinaria que refleja las profundas transformaciones económicas y políticas del país. El período se inicia con tasas de inflación ya elevadas, producto de los desequilibrios macroeconómicos de la década anterior. Durante los años 80, la inflación se mantuvo en niveles de dos y tres dígitos, con un promedio anual que osciló entre el 60% y el 111%, alcanzando su pico más crítico en 1989 durante el gobierno de Alan García. La década de 1990 marca un punto de inflexión, con la implementación de programas de estabilización que lograron reducir drásticamente la inflación, de <strong>7,650% en 1990</strong> a niveles de un dígito a partir del año 2000. Esta tendencia descendente se consolidó en las décadas siguientes, con la inflación manteniéndose dentro de rangos moderados, aunque con cierta volatilidad explicada por factores externos como los precios de los commodities y fenómenos climáticos.</p>
 <table class="caption-top table">
 <colgroup>
@@ -603,47 +717,47 @@ Achalma, Edison. 2025. <span>“Política monetaria del BCRP,”</span> May.
 </table>
 <p><em>Fuente: Elaboración propia con datos del Banco Central de Reserva del Perú (BCRP) e Instituto Nacional de Estadística e Informática (INEI).</em></p>
 </section>
-<section id="década-de-1980-crisis-e-hiperinflación" class="level2">
-<h2 class="anchored" data-anchor-id="década-de-1980-crisis-e-hiperinflación">Década de 1980: Crisis e Hiperinflación</h2>
+<section id="década-de-1980-crisis-e-hiperinflación" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="década-de-1980-crisis-e-hiperinflación"><span class="header-section-number">5.2</span> Década de 1980: Crisis e Hiperinflación</h2>
 <p>La década de los ochenta representa uno de los períodos más turbulentos en la historia económica del Perú, caracterizado por una crisis económica profunda y una hiperinflación descontrolada. El período comenzó con la transición a la democracia tras el gobierno militar, con Fernando Belaunde Terry asumiendo la presidencia en 1980. Durante su mandato (1980-1985), la inflación se mantuvo en niveles elevados, oscilando entre el 59% y el 111% anual, impulsada por déficits fiscales persistentes, devaluaciones y la postergación de ajustes en precios controlados. Sin embargo, fue durante el gobierno de Alan García Pérez (1985-1990) que la situación se agravó dramáticamente. Las políticas económicas heterodoxas implementadas, como el control de precios, los tipos de cambio múltiples y la expansión del crédito subsidiado, resultaron en un desastre económico. La emisión excesiva de moneda para financiar el déficit fiscal, sumado a la pérdida de credibilidad en las instituciones económicas, llevó a una espiral inflacionaria que culminó en la hiperinflación. En 1988, la inflación mensual superó el 100% en septiembre, y en 1990, la inflación anual alcanzó el <strong>7,650%</strong>, destruyendo completamente el valor de la moneda y empobreciendo a la población. Este período de “hiperestanflación” combinó la inflación más alta de la historia del país con una severa recesión económica, dejando una profunda cicatriz en la sociedad peruana.</p>
-<section id="gobierno-de-fernando-belaunde-terry-1980-1985" class="level3">
-<h3 class="anchored" data-anchor-id="gobierno-de-fernando-belaunde-terry-1980-1985">Gobierno de Fernando Belaunde Terry (1980-1985)</h3>
+<section id="gobierno-de-fernando-belaunde-terry-1980-1985" class="level3" data-number="5.2.1">
+<h3 data-number="5.2.1" class="anchored" data-anchor-id="gobierno-de-fernando-belaunde-terry-1980-1985"><span class="header-section-number">5.2.1</span> Gobierno de Fernando Belaunde Terry (1980-1985)</h3>
 <p>El gobierno de Fernando Belaunde Terry (1980-1985) heredó una economía con problemas estructurales y una inflación creciente. Durante su mandato, la tasa de inflación se mantuvo en niveles elevados, oscilando entre el 59% y el 111% anual, impulsada por factores como el déficit fiscal, la expansión del crédito interno y los desastres naturales como el Fenómeno del Niño de 1983 . La política de postergación de ajustes en los precios controlados durante el primer semestre de 1980 solo logró trasladar presiones inflacionarias a los años siguientes, agravando el problema. Aunque se observó una breve desaceleración en 1981, la inflación repuntó con fuerza en los años siguientes, alcanzando tasas de tres dígitos: 125.1% en 1983 y 111.5% en 1984. Estos niveles reflejaban la incapacidad de las autoridades para controlar los desequilibrios macroeconómicos subyacentes, como los problemas en las cuentas externas y públicas, la continua devaluación y las expectativas inflacionarias arraigadas.</p>
 </section>
-<section id="gobierno-de-alan-garcía-pérez-1985-1990" class="level3">
-<h3 class="anchored" data-anchor-id="gobierno-de-alan-garcía-pérez-1985-1990">Gobierno de Alan García Pérez (1985-1990)</h3>
+<section id="gobierno-de-alan-garcía-pérez-1985-1990" class="level3" data-number="5.2.2">
+<h3 data-number="5.2.2" class="anchored" data-anchor-id="gobierno-de-alan-garcía-pérez-1985-1990"><span class="header-section-number">5.2.2</span> Gobierno de Alan García Pérez (1985-1990)</h3>
 <p>El gobierno de Alan García Pérez (1985-1990) heredó una economía en crisis y, aunque inicialmente logró una reducción de la inflación en 1986, la implementación de políticas económicas heterodoxas, como el control de precios y el anuncio de limitar el pago de la deuda externa al 10% de las exportaciones, generó desconfianza y desequilibrios que agravaron aún más la crisis. La emisión excesiva de moneda para financiar el déficit fiscal, combinada con la pérdida de valor del inti, llevó a la economía a un colapso inflacionario sin precedentes. Los años 1988 y 1989 marcaron el pico de la hiperinflación, con tasas anuales de <strong>1,722.3% y 2,775.0%</strong>, respectivamente . Esta situación se tradujo en una destrucción casi total del valor adquisitivo de la moneda nacional, el inti, y obligó al gobierno a implementar medidas drásticas, como la creación de un nuevo tipo de cambio para importaciones (dólar MUC) y, finalmente, la sustitución de la moneda. La hiperinflación de fines de los 80 no solo fue un fenómeno económico, sino también un síntoma de una profunda crisis política y social que afectó gravemente el bienestar de la población, especialmente de los sectores más vulnerables.</p>
 </section>
 </section>
-<section id="década-de-1990-estabilización-y-reducción" class="level2">
-<h2 class="anchored" data-anchor-id="década-de-1990-estabilización-y-reducción">Década de 1990: Estabilización y Reducción</h2>
+<section id="década-de-1990-estabilización-y-reducción" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="década-de-1990-estabilización-y-reducción"><span class="header-section-number">5.3</span> Década de 1990: Estabilización y Reducción</h2>
 <p>La década de los noventa marcó un punto de inflexión en la historia económica del Perú, con la implementación de un ambicioso programa de estabilización y reformas estructurales que lograron frenar la hiperinflación y sentar las bases para el crecimiento económico sostenido. El proceso de estabilización comenzó en agosto de 1990 con el gobierno de Alberto Fujimori, quien heredó una economía en caos con una inflación del 7,650% anual. El programa de estabilización, conocido como el “Fujishock”, incluyó medidas drásticas como la liberalización del mercado de divisas, la eliminación de subsidios, la privatización de empresas estatales y la adopción de una política monetaria restrictiva. Estas medidas, aunque dolorosas en el corto plazo, resultaron efectivas para reducir la inflación de manera dramática. En 1991, la inflación cayó al 139%, y para 1992 ya se encontraba en el 57%. La coherencia entre las políticas monetaria y fiscal fue clave para este logro, con el Banco Central de Reserva del Perú (BCRP) adoptando una política de estricto control de los agregados monetarios. Durante el resto de la década, la inflación continuó su tendencia descendente, alcanzando niveles de un solo dígito por primera vez en décadas. En 1997, la inflación fue del 6.5%, y en 1999, del 3.7%, consolidando el éxito del programa de estabilización y marcando el inicio de una nueva era de estabilidad macroeconómica.</p>
-<section id="gobierno-de-alberto-fujimori-1990-2000" class="level3">
-<h3 class="anchored" data-anchor-id="gobierno-de-alberto-fujimori-1990-2000">Gobierno de Alberto Fujimori (1990-2000)</h3>
+<section id="gobierno-de-alberto-fujimori-1990-2000" class="level3" data-number="5.3.1">
+<h3 data-number="5.3.1" class="anchored" data-anchor-id="gobierno-de-alberto-fujimori-1990-2000"><span class="header-section-number">5.3.1</span> Gobierno de Alberto Fujimori (1990-2000)</h3>
 <p>El gobierno de Alberto Fujimori (1990-2000) heredó una economía en bancarrota y una inflación desbocada. En agosto de 1990, se implementó el “Fujishock”, un programa de estabilización ortodoxo que incluyó una masiva corrección de precios (la inflación de agosto de 1990 bordeó el 400%), la liberalización del tipo de cambio, una severa restricción del gasto público y una reforma tributaria profunda . Aunque la inflación de 1990 fue la más alta de la historia (7,650%), estas medidas sentaron las bases para su control. En 1991, la inflación cayó dramáticamente al 139%, y continuó su descenso sostenido durante el resto de la década: 56.7% en 1992, 39.5% en 1993, 15.4% en 1994, y finalmente alcanzando un dígito en 1995 (10.2%) . Este logro fue posible gracias a la combinación de una política monetaria restrictiva y la disciplina fiscal. La independencia del Banco Central de Reserva del Perú, consagrada en la Constitución de 1993, fue fundamental para consolidar esta estabilidad y sentar las bases para el crecimiento económico sostenido con baja inflación.</p>
 </section>
 </section>
-<section id="década-de-2000-consolidación-de-la-baja-inflación" class="level2">
-<h2 class="anchored" data-anchor-id="década-de-2000-consolidación-de-la-baja-inflación">Década de 2000: Consolidación de la Baja Inflación</h2>
+<section id="década-de-2000-consolidación-de-la-baja-inflación" class="level2" data-number="5.4">
+<h2 data-number="5.4" class="anchored" data-anchor-id="década-de-2000-consolidación-de-la-baja-inflación"><span class="header-section-number">5.4</span> Década de 2000: Consolidación de la Baja Inflación</h2>
 <p>La década de los dos mil se caracterizó por la consolidación de la estabilidad de precios en el Perú, con la implementación del esquema de Metas Explícitas de Inflación en 2002 como el pilar central de la política monetaria. Este marco institucional, que establece un rango meta de inflación de 1% a 3%, ha sido fundamental para anclar las expectativas de los agentes económicos y mantener la inflación bajo control. Durante este período, el Perú logró mantener una de las tasas de inflación más bajas y estables de América Latina, con un promedio anual de 2.5% entre 2002 y 2005, una situación que no se presentaba desde la década de 1960. Sin embargo, la década no estuvo exenta de desafíos. La volatilidad de los precios internacionales de los commodities, especialmente el petróleo y los alimentos, generó presiones inflacionarias puntuales. En 2008, la inflación se aceleró hasta el 6.65%, pero la política monetaria del BCRP logró contener el impacto y mantener la inflación dentro del rango meta en la mayoría de los años. El crecimiento económico sostenido, el superávit fiscal y el fortalecimiento de las instituciones económicas también contribuyeron a este entorno de estabilidad de precios.</p>
 <p>La década de 2000 se caracterizó por la consolidación de la baja inflación y la implementación del régimen de Metas Explícitas de Inflación. En 2001, el Perú experimentó un episodio de deflación (-0.13%), el primero desde 1939, debido a la reducción de precios de combustibles y servicios públicos. Sin embargo, a partir de 2002, con la implementación del esquema de metas de inflación, la tasa de inflación se estabilizó en niveles bajos y controlados: 1.52% en 2002, 2.48% en 2003, 3.48% en 2004, 1.5% en 2005, 2.0% en 2006, 1.1% en 2007, 6.65% en 2008 (afectada por la crisis alimentaria mundial), 0.25% en 2009 y 2.08% en 2010. El promedio anual de inflación durante esta década fue de 2.5%, la más baja desde la década de 1960. Este logro fue posible gracias a la credibilidad ganada por el BCRP en la implementación de su política monetaria, la disciplina fiscal mantenida por el gobierno y un contexto internacional favorable de crecimiento económico y precios estables de commodities.</p>
 </section>
-<section id="período-2010-2017-metas-de-inflación-y-volatilidad" class="level2">
-<h2 class="anchored" data-anchor-id="período-2010-2017-metas-de-inflación-y-volatilidad">Período 2010-2017: Metas de Inflación y Volatilidad</h2>
+<section id="período-2010-2017-metas-de-inflación-y-volatilidad" class="level2" data-number="5.5">
+<h2 data-number="5.5" class="anchored" data-anchor-id="período-2010-2017-metas-de-inflación-y-volatilidad"><span class="header-section-number">5.5</span> Período 2010-2017: Metas de Inflación y Volatilidad</h2>
 <p>Durante el período 2010-2017, el Perú continuó con su régimen de metas de inflación, logrando mantener tasas de inflación bajas y estables, aunque con algunas fluctuaciones debido a factores externos. En 2010, la tasa de inflación fue de 2.08%, influenciada por el aumento de las cotizaciones internacionales de algunos alimentos y combustibles, así como por condiciones climatológicas adversas que afectaron los precios de algunos productos. En 2011, la inflación aumentó a 4.74%, explicada tanto por choques externos (aumento de precios internacionales de commodities) como internos (anomalías climatológicas que afectaron la oferta de productos agrícolas). Sin embargo, en los años siguientes, la inflación se redujo gradualmente, ubicándose en 2.65% en 2012 y 2.86% en 2013. En 2014, la inflación fue de 3.22%, y en 2015, se aceleró a 4.4%, reflejando principalmente alzas en los precios de alimentos, tarifas eléctricas y de los rubros vinculados al tipo de cambio. A pesar de estas fluctuaciones, la inflación se mantuvo dentro del rango meta establecido por el BCRP, que para este período era de 1% a 3%. La capacidad del BCRP para mantener la inflación baja y estable, a pesar de los choques de oferta externos e internos, demostró la efectividad del régimen de metas de inflación y la credibilidad de la política monetaria. En el período 2003-2012, la tasa de inflación anual promedio fue de 2.9%, la más baja de América Latina, lo que consolidó al Perú como un país con una de las mejores trayectorias de estabilidad de precios en la región.</p>
-<section id="período-de-metas-de-inflación-2011-2017" class="level3">
-<h3 class="anchored" data-anchor-id="período-de-metas-de-inflación-2011-2017">Período de Metas de Inflación (2011-2017)</h3>
+<section id="período-de-metas-de-inflación-2011-2017" class="level3" data-number="5.5.1">
+<h3 data-number="5.5.1" class="anchored" data-anchor-id="período-de-metas-de-inflación-2011-2017"><span class="header-section-number">5.5.1</span> Período de Metas de Inflación (2011-2017)</h3>
 <p>Durante el período 2011-2017, el Perú continuó operando bajo el esquema de Metas Explícitas de Inflación, aunque con cierta volatilidad. En 2011, la inflación se aceleró a 4.74% debido al alza de precios internacionales de commodities y anomalías climáticas que afectaron la oferta de alimentos . En los años siguientes, la inflación se moderó, ubicándose en 2.6% en 2012, 2.9% en 2013, 3.2% en 2014 y 4.4% en 2015. En 2016, la tasa fue de 3.2%, y en 2017 cerró en un bajo 1.4%, el nivel más bajo desde 2009 . Este resultado se explicó por la reversión de choques de oferta en productos agrícolas y condiciones climáticas favorables. El BCRP desempeñó un papel crucial durante este período, utilizando la tasa de interés de referencia y otras herramientas de política monetaria para mantener la inflación anclada a la meta, demostrando la madurez del marco de política monetaria implementado.</p>
 </section>
 </section>
 </section>
-<section id="conclusiones" class="level1">
-<h1>Conclusiones</h1>
+<section id="conclusiones" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> Conclusiones</h1>
 <p>El análisis del comportamiento de la inflación en el Perú durante el período 1980-2017 permite identificar tres grandes etapas claramente diferenciadas. La primera, de 1980 a 1990, se caracterizó por una crisis inflacionaria de proporciones históricas, con tasas de hiperinflación que alcanzaron el <strong>7,650% anual en 1990</strong>, destruyendo el valor de la moneda y empobreciendo a la población. La segunda etapa, de 1991 a 2002, fue un período de transición y estabilización, donde la implementación de reformas estructurales y políticas monetarias y fiscales más disciplinadas permitió reducir drásticamente la inflación. Finalmente, la tercera etapa, de 2003 a 2017, se caracterizó por la consolidación de la baja inflación, gracias a la implementación del esquema de Metas Explícitas de Inflación, que ha permitido mantener la inflación dentro de rangos moderados y estables.</p>
 <p>Los factores determinantes de la inflación peruana han sido tanto internos como externos. Entre los factores internos, destacan la política fiscal expansiva, el financiamiento monetario del déficit público, la devaluación de la moneda y los choques de oferta en el sector agrícola. Entre los factores externos, la volatilidad de los precios internacionales de los commodities, especialmente el petróleo y los alimentos, ha sido un determinante clave de la inflación en el Perú. La experiencia del país demuestra que la credibilidad de las instituciones económicas, especialmente del Banco Central, es fundamental para anclar las expectativas inflacionarias y mantener la estabilidad de precios.</p>
 </section>
-<section id="recomendaciones" class="level1">
-<h1>Recomendaciones</h1>
+<section id="recomendaciones" class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> Recomendaciones</h1>
 <p>Con base en el análisis realizado, se proponen las siguientes recomendaciones de política económica para mantener la estabilidad de precios en el Perú:</p>
 <ol type="1">
 <li><strong>Mantener la disciplina fiscal:</strong> Es fundamental que el gobierno mantenga un equilibrio entre sus ingresos y gastos, evitando el financiamiento del déficit público mediante la emisión de moneda. Una política fiscal prudente es un pilar fundamental para la estabilidad macroeconómica.</li>
@@ -653,23 +767,23 @@ Achalma, Edison. 2025. <span>“Política monetaria del BCRP,”</span> May.
 <li><strong>Diversificar la economía:</strong> La dependencia del Perú de las exportaciones de commodities lo hace vulnerable a las fluctuaciones de los precios internacionales. Es necesario diversificar la economía, promoviendo el desarrollo de sectores productivos con mayor valor agregado.</li>
 </ol>
 </section>
-<section id="perspectivas-futuras" class="level1">
-<h1>Perspectivas Futuras</h1>
+<section id="perspectivas-futuras" class="level1" data-number="8">
+<h1 data-number="8"><span class="header-section-number">8</span> Perspectivas Futuras</h1>
 <p>Las perspectivas futuras para la inflación en el Perú dependen de una combinación de factores internos y externos. En el plano interno, la consolidación de las instituciones económicas y la continuidad de políticas fiscales y monetarias prudentes son fundamentales para mantener la estabilidad de precios. El fortalecimiento del marco de política monetaria y la mejora en la coordinación entre las políticas fiscal y monetaria serán claves para enfrentar los desafíos futuros.</p>
 <p>En el plano externo, la volatilidad de los precios de los commodities seguirá siendo un factor de riesgo para la inflación peruana. El cambio climático y la mayor frecuencia de fenómenos climáticos extremos podrían afectar la oferta de alimentos y generar presiones inflacionarias. Asimismo, las condiciones de la economía global, incluyendo las tasas de interés de los países desarrollados y la demanda de los principales socios comerciales del Perú, también influirán en la evolución de la inflación.</p>
 </section>
-<section id="referencias-bibliográficas" class="level1">
-<h1>Referencias Bibliográficas</h1>
+<section id="referencias-bibliográficas" class="level1" data-number="9">
+<h1 data-number="9"><span class="header-section-number">9</span> Referencias Bibliográficas</h1>
 <ul>
 <li>Banco Central de Reserva del Perú. (s.f.). <em>Memorias</em>. Recuperado de http://www.bcrp.gob.pe/publicaciones/memoria-anual.html</li>
 <li>Jiménez, F. (2006). <em>Macroeconomía. Enfoques y modelos. (Tomo I)</em>. Lima: Pontificia Universidad Católica del Perú.</li>
 <li>Le Roy, M. R. (2001). <em>Macroeconomía Moderna</em> (7ma. Ed.). México: Mc Graw-Hill.</li>
 </ul>
 </section>
-<section id="anexos" class="level1">
-<h1>Anexos</h1>
-<section id="anexo-estadístico-tablas-de-datos-de-inflación" class="level2">
-<h2 class="anchored" data-anchor-id="anexo-estadístico-tablas-de-datos-de-inflación">Anexo Estadístico: Tablas de Datos de Inflación</h2>
+<section id="anexos" class="level1" data-number="10">
+<h1 data-number="10"><span class="header-section-number">10</span> Anexos</h1>
+<section id="anexo-estadístico-tablas-de-datos-de-inflación" class="level2" data-number="10.1">
+<h2 data-number="10.1" class="anchored" data-anchor-id="anexo-estadístico-tablas-de-datos-de-inflación"><span class="header-section-number">10.1</span> Anexo Estadístico: Tablas de Datos de Inflación</h2>
 <table class="caption-top table">
 <thead>
 <tr class="header">
@@ -873,14 +987,14 @@ Achalma, Edison. 2025. <span>“Política monetaria del BCRP,”</span> May.
 </table>
 <p><em>Fuente: Elaboración propia con datos del BCRP e INEI.</em></p>
 </section>
-<section id="anexo-metodológico-fuentes-de-información-y-metodología-de-cálculo-del-ipc" class="level2">
-<h2 class="anchored" data-anchor-id="anexo-metodológico-fuentes-de-información-y-metodología-de-cálculo-del-ipc">Anexo Metodológico: Fuentes de Información y Metodología de Cálculo del IPC</h2>
-<section id="fuentes-de-información" class="level3">
-<h3 class="anchored" data-anchor-id="fuentes-de-información">Fuentes de Información</h3>
+<section id="anexo-metodológico-fuentes-de-información-y-metodología-de-cálculo-del-ipc" class="level2" data-number="10.2">
+<h2 data-number="10.2" class="anchored" data-anchor-id="anexo-metodológico-fuentes-de-información-y-metodología-de-cálculo-del-ipc"><span class="header-section-number">10.2</span> Anexo Metodológico: Fuentes de Información y Metodología de Cálculo del IPC</h2>
+<section id="fuentes-de-información" class="level3" data-number="10.2.1">
+<h3 data-number="10.2.1" class="anchored" data-anchor-id="fuentes-de-información"><span class="header-section-number">10.2.1</span> Fuentes de Información</h3>
 <p>Los datos estadísticos utilizados en esta monografía provienen de fuentes oficiales y confiables, principalmente del <strong>Banco Central de Reserva del Perú (BCRP)</strong> y del <strong>Instituto Nacional de Estadística e Informática (INEI)</strong> . Estas instituciones son responsables de la elaboración y publicación de las estadísticas económicas del país, incluyendo el Índice de Precios al Consumidor (IPC), que es el indicador oficial de medición de la inflación.</p>
 </section>
-<section id="metodología-de-cálculo-del-ipc" class="level3">
-<h3 class="anchored" data-anchor-id="metodología-de-cálculo-del-ipc">Metodología de Cálculo del IPC</h3>
+<section id="metodología-de-cálculo-del-ipc" class="level3" data-number="10.2.2">
+<h3 data-number="10.2.2" class="anchored" data-anchor-id="metodología-de-cálculo-del-ipc"><span class="header-section-number">10.2.2</span> Metodología de Cálculo del IPC</h3>
 <p>El IPC es un indicador estadístico que mide la variación promedio de los precios de una canasta de bienes y servicios representativa del consumo de los hogares. La metodología de cálculo del IPC en el Perú se basa en las siguientes etapas:</p>
 <ol type="1">
 <li><strong>Selección de la canasta de consumo:</strong> Se selecciona una canasta de bienes y servicios que represente el patrón de consumo de los hogares en Lima Metropolitana. Esta canasta se actualiza periódicamente para reflejar los cambios en los hábitos de consumo.</li>
@@ -895,8 +1009,8 @@ Achalma, Edison. 2025. <span>“Política monetaria del BCRP,”</span> May.
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reutilización</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-achalma2017" class="csl-entry quarto-appendix-citeas">
-Achalma, Edison. 2017. <span>“El Comportamiento de la Inflación en el
-Perú,”</span> May. <a href="https://aequilibria.netlify.app/posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017/">https://aequilibria.netlify.app/posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017/</a>.
+Achalma, Edison. 2017. <em>El Comportamiento de la Inflación en el
+Perú</em>. accepted, May 11. <a href="https://aequilibria.netlify.app/posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017/">https://aequilibria.netlify.app/posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017/</a>.
 </div></div></section></div> ]]></description>
   <category>Macroeconomia</category>
   <guid>https://aequilibria.netlify.app/posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017/</guid>
