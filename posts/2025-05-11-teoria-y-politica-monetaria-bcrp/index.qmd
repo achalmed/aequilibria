@@ -39,6 +39,7 @@ date: 05/11/2025
 draft: false
 jupyter: python3
 image: ../featured.jpg
+curso: macroeconomia_i
 ---
 
 Dinero, eje central.

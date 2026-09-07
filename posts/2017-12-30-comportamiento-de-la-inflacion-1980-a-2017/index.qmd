@@ -43,6 +43,7 @@ citation:
 date: 05/11/2017
 draft: false
 image: ../featured.jpg
+curso: macroeconomia_i
 ---
 
 # Resumen Ejecutivo
