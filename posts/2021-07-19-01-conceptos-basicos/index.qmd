@@ -3,9 +3,7 @@ copyrightnotice: 2021
 copyrightext: All rights reserved
 title: Conceptos básicos de macroeconomía
 subtitle: Fundamentos esenciales
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Macroeconomia
 tags:
@@ -31,7 +29,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://aequilibria.netlify.app/posts/2021-07-19-01-conceptos-basicos/index.pdf
-date: 07/19/2021
+date: 2021-07-19
 draft: true
 image: ../featured.jpg
 curso: macroeconomia_i

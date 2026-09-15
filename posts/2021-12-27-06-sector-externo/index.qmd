@@ -2,9 +2,7 @@
 copyrightnotice: 2021
 copyrightext: All rights reserved
 title: Sector externo y balanza de pagos
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Macroeconomia
 tags:
@@ -30,7 +28,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://aequilibria.netlify.app/posts/2021-12-27-06-sector-externo/index.pdf
-date: 12/27/2021
+date: 2021-12-27
 draft: true
 image: ../featured.jpg
 curso: macroeconomia_i

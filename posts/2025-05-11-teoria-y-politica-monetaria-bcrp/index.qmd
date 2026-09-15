@@ -7,9 +7,7 @@ copyrightnotice: 2025
 copyrightext: All rights reserved
 title: Política monetaria del BCRP
 subtitle: teoría y práctica
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Macroeconomia
 tags:
@@ -35,7 +33,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp/index.pdf
-date: 05/11/2025
+date: 2025-05-11
 draft: false
 jupyter: python3
 image: ../featured.jpg

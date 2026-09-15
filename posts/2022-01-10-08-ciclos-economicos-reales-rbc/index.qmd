@@ -2,9 +2,7 @@
 copyrightnotice: 2022
 copyrightext: All rights reserved
 title: Ciclos económicos reales (RBC)
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Macroeconomia
 tags:
@@ -30,7 +28,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://aequilibria.netlify.app/posts/2022-01-10-08-ciclos-economicos-reales-rbc/index.pdf
-date: 01/10/2022
+date: 2022-01-10
 draft: true
 image: ../featured.jpg
 curso: macroeconomia_i

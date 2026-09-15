@@ -1,3 +1,8 @@
+---
+tipo: fragmento
+titulo: índice de publicaciones de posts; lo genera script_generador_publicacion_similar
+---
+
 1. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017/index.pdf) [Comportamiento De La Inflacion 1980 A 2017](https://aequilibria.netlify.app/posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017)
 2. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2021-07-19-01-conceptos-basicos/index.pdf) [01 Conceptos Basicos](https://aequilibria.netlify.app/posts/2021-07-19-01-conceptos-basicos)
 3. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2021-07-26-02-teoria-de-consumo/index.pdf) [02 Teoria De Consumo](https://aequilibria.netlify.app/posts/2021-07-26-02-teoria-de-consumo)

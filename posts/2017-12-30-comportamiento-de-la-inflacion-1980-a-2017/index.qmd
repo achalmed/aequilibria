@@ -40,7 +40,7 @@ citation:
   author:
     - Edison Achalma
   pdf-url: https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp/index.pdf
-date: 05/11/2017
+date: 2017-05-11
 draft: false
 image: ../featured.jpg
 curso: macroeconomia_i

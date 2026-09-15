@@ -3,9 +3,7 @@ copyrightnotice: 2021
 copyrightext: All rights reserved
 title: Modelo Mundell-Fleming
 subtitle: economía abierta
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Macroeconomia
 tags:
@@ -31,7 +29,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://aequilibria.netlify.app/posts/2021-12-20-05-modelo-de-mundell-fleming/index.pdf
-date: 12/20/2021
+date: 2021-12-20
 draft: true
 image: ../featured.jpg
 curso: macroeconomia_i

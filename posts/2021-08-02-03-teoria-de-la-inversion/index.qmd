@@ -2,9 +2,7 @@
 copyrightnotice: 2021
 copyrightext: All rights reserved
 title: Teoría de la inversión y decisiones empresariales
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Macroeconomia
 tags:
@@ -31,7 +29,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://aequilibria.netlify.app/posts/2021-08-02-03-teoria-de-la-inversion/index.pdf
-date: 08/02/2021
+date: 2021-08-02
 draft: true
 image: ../featured.jpg
 curso: macroeconomia_i

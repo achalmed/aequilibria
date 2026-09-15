@@ -2,9 +2,7 @@
 copyrightnotice: 2021
 copyrightext: All rights reserved
 title: Determinantes del tipo de cambio real
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Macroeconomia
 tags:
@@ -30,7 +28,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://aequilibria.netlify.app/posts/2021-08-09-04-tipo-de-cambio/index.pdf
-date: 08/09/2021
+date: 2021-08-09
 draft: true
 image: ../featured.jpg
 curso: macroeconomia_i

@@ -2,9 +2,7 @@
 copyrightnotice: 2021
 copyrightext: All rights reserved
 title: Teoría del consumo en economías
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Macroeconomia
 tags:
@@ -31,7 +29,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://aequilibria.netlify.app/posts/2021-07-26-02-teoria-de-consumo/index.pdf
-date: 07/26/2021
+date: 2021-07-26
 draft: true
 image: ../featured.jpg
 curso: macroeconomia_i

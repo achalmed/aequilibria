@@ -2,9 +2,7 @@
 copyrightnotice: 2022
 copyrightext: All rights reserved
 title: Fluctuaciones económicas de corto plazo
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Macroeconomia
 tags:
@@ -30,7 +28,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://aequilibria.netlify.app/posts/2022-01-03-07-fluctuaciones-de-corto-plazo/index.pdf
-date: 01/03/2022
+date: 2022-01-03
 draft: true
 image: ../featured.jpg
 curso: macroeconomia_i

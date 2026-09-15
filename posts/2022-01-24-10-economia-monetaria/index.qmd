@@ -2,9 +2,7 @@
 copyrightnotice: 2022
 copyrightext: All rights reserved
 title: Fundamentos de economía monetaria
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Macroeconomia
 tags:
@@ -30,7 +28,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://aequilibria.netlify.app/posts/2022-01-24-10-economia-monetaria/index.pdf
-date: 01/24/2022
+date: 2022-01-24
 draft: true
 image: ../featured.jpg
 curso: macroeconomia_i

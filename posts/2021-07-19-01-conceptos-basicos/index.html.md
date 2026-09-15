@@ -3,9 +3,7 @@ copyrightnotice: 2021
 copyrightext: All rights reserved
 title: Conceptos básicos de macroeconomía
 subtitle: Fundamentos esenciales
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Macroeconomia
 tags:
@@ -31,17 +29,28 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://aequilibria.netlify.app/posts/2021-07-19-01-conceptos-basicos/index.pdf
-date: 07/19/2021
+date: 2021-07-19
 draft: true
 image: ../featured.jpg
+curso: macroeconomia_i
 ---
 
 Este artículo está actualmente en proceso de edición, y todas las secciones serán ampliadas y refinadas en futuras revisiones.
+
+---
+tipo: fragmento
+titulo: texto de apertura del bloque «Publicaciones similares» (incluido en cada post)
+---
 
 # Publicaciones Similares
 
 Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:
 
+
+---
+tipo: fragmento
+titulo: índice de publicaciones de posts; lo genera script_generador_publicacion_similar
+---
 
 1. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017/index.pdf) [Comportamiento De La Inflacion 1980 A 2017](https://aequilibria.netlify.app/posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017)
 2. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2021-07-19-01-conceptos-basicos/index.pdf) [01 Conceptos Basicos](https://aequilibria.netlify.app/posts/2021-07-19-01-conceptos-basicos)
@@ -57,6 +66,11 @@ Si te interesó este artículo, te recomendamos que explores otros blogs y recur
 12. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2022-01-31-11-modelos-de-empleo/index.pdf) [11 Modelos De Empleo](https://aequilibria.netlify.app/posts/2022-01-31-11-modelos-de-empleo)
 13. [{{< fa regular file-pdf >}}](https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp/index.pdf) [Teoria Y Politica Monetaria Bcrp](https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp)
 
+
+---
+tipo: fragmento
+titulo: texto de cierre del bloque «Publicaciones similares» (incluido en cada post)
+---
 
 Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!
 

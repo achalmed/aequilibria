@@ -2,9 +2,7 @@
 copyrightnotice: 2022
 copyrightext: All rights reserved
 title: Modelos de mercado laboral y desempleo
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Macroeconomia
 tags:
@@ -30,7 +28,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://aequilibria.netlify.app/posts/2022-01-31-11-modelos-de-empleo/index.pdf
-date: 01/31/2022
+date: 2022-01-31
 draft: true
 image: ../featured.jpg
 curso: macroeconomia_i
