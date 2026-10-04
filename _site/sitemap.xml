@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://aequilibria.netlify.app/SECURITY.html</loc>
-    <lastmod>2026-06-20T16:43:04.736Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp/index.html</loc>
-    <lastmod>2026-06-20T16:45:46.278Z</lastmod>
+    <loc>https://aequilibria.netlify.app/index.html</loc>
+    <lastmod>2026-07-02T20:07:06.487Z</lastmod>
   </url>
   <url>
     <loc>https://aequilibria.netlify.app/posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017/index.html</loc>
-    <lastmod>2026-06-20T16:45:46.272Z</lastmod>
+    <lastmod>2026-09-15T12:41:23.802Z</lastmod>
   </url>
   <url>
-    <loc>https://aequilibria.netlify.app/index.html</loc>
-    <lastmod>2026-07-02T20:07:06.487Z</lastmod>
+    <loc>https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp/index.html</loc>
+    <lastmod>2026-09-15T12:46:10.337Z</lastmod>
   </url>
 </urlset>
