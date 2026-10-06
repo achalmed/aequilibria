@@ -4,7 +4,7 @@ estado: activo
 ---
 # pub_aequilibria/ — Macroeconomía: blog satélite del hub `04 index` (repo aequilibria, aequilibria.netlify.app)
 
-<!-- GENERADO por `04 index/scripts/pubs.py readme --aplicar` desde `04 index/_pubs/pubs.yml` (2026-10-04); no editar aquí: se regenera desde el hub -->
+<!-- GENERADO por `04 index/scripts/pubs.py readme --aplicar` desde `04 index/_pubs/pubs.yml` (2026-10-06); no editar aquí: se regenera desde el hub -->
 
 ## Qué es
 
@@ -15,7 +15,7 @@ GitHub `achalmed/aequilibria` y dominio `aequilibria.netlify.app`; el registro d
 
 El tema visual (SCSS, JS, extensiones, filtros, `scripts/build-page-css.sh`) **no se edita aquí**: vive en el hub y
 llega por `04 index/scripts/sync-theme-pubs.sh`. Lo propio de este blog es `_quarto.yml`, `index.qmd`, `_contenido-*.qmd`,
-`assets/img/` y las entradas; los índices `_contenido_<sección>.qmd` los genera `scripts_quarto_studio`
+`assets/img/` y las entradas; los índices `_contenido_<sección>.qmd` los genera `scripts-quarto`
 (`script_generador_publicacion_similar`) y no se editan a mano.
 
 ## Uso
@@ -39,7 +39,7 @@ cd ../.. && git add _pubs/pub_aequilibria && git commit -m "pubs: aequilibria al
 | `_site/` | sitio generado por `quarto render`; versionado a propósito: su push es el despliegue (`04 index/docs/decisiones.md` §4.1) | |
 
 13 entradas. Cada entrada es `<sección>/AAAA-MM-DD-slug/index.qmd` con frontmatter apaquarto y fecha ISO;
-sus metadatos se editan en masa desde `scripts_quarto_studio` (`metadata_manager`).
+sus metadatos se editan en masa desde `scripts-quarto` (`metadata_manager`).
 
 ## Documentación
 
