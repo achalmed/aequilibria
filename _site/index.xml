@@ -80,7 +80,7 @@ Incluye notas y tutoriales para mi futuro y espero que también para ti.&lt;br&g
 <li>Dinámico, Ajuste de acuerdo a las necesidades</li>
 <li>Estocástico (aleatorio)</li>
 </ul>
-<div id="8acb7231" class="cell">
+<div id="8d3b44fd" class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
 background-color: null;
 font-style: inherit;">import</span> matplotlib.pyplot <span class="im" style="color: #00769E;
