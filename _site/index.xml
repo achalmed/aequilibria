@@ -80,7 +80,7 @@ Incluye notas y tutoriales para mi futuro y espero que también para ti.&lt;br&g
 <li>Dinámico, Ajuste de acuerdo a las necesidades</li>
 <li>Estocástico (aleatorio)</li>
 </ul>
-<div id="03de50c1" class="cell">
+<div id="762c87cd" class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
 background-color: null;
 font-style: inherit;">import</span> matplotlib.pyplot <span class="im" style="color: #00769E;
@@ -289,17 +289,6 @@ font-style: inherit;">#plt.savefig('happiness_over_time.png')</span></span></cod
 <!-- fragmento de inclusión — índice de publicaciones de posts; lo genera script_generador_publicacion_similar -->
 <ol type="1">
 <li><a href="https://aequilibria.netlify.app/posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017">Comportamiento De La Inflacion 1980 A 2017</a></li>
-<li><a href="https://aequilibria.netlify.app/posts/2021-07-19-01-conceptos-basicos/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2021-07-19-01-conceptos-basicos">01 Conceptos Basicos</a></li>
-<li><a href="https://aequilibria.netlify.app/posts/2021-07-26-02-teoria-de-consumo/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2021-07-26-02-teoria-de-consumo">02 Teoria De Consumo</a></li>
-<li><a href="https://aequilibria.netlify.app/posts/2021-08-02-03-teoria-de-la-inversion/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2021-08-02-03-teoria-de-la-inversion">03 Teoria De La Inversion</a></li>
-<li><a href="https://aequilibria.netlify.app/posts/2021-08-09-04-tipo-de-cambio/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2021-08-09-04-tipo-de-cambio">04 Tipo De Cambio</a></li>
-<li><a href="https://aequilibria.netlify.app/posts/2021-12-20-05-modelo-de-mundell-fleming/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2021-12-20-05-modelo-de-mundell-fleming">05 Modelo De Mundell Fleming</a></li>
-<li><a href="https://aequilibria.netlify.app/posts/2021-12-27-06-sector-externo/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2021-12-27-06-sector-externo">06 Sector Externo</a></li>
-<li><a href="https://aequilibria.netlify.app/posts/2022-01-03-07-fluctuaciones-de-corto-plazo/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2022-01-03-07-fluctuaciones-de-corto-plazo">07 Fluctuaciones De Corto Plazo</a></li>
-<li><a href="https://aequilibria.netlify.app/posts/2022-01-10-08-ciclos-economicos-reales-rbc/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2022-01-10-08-ciclos-economicos-reales-rbc">08 Ciclos Economicos Reales Rbc</a></li>
-<li><a href="https://aequilibria.netlify.app/posts/2022-01-17-09-crecimiento-economico/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2022-01-17-09-crecimiento-economico">09 Crecimiento Economico</a></li>
-<li><a href="https://aequilibria.netlify.app/posts/2022-01-24-10-economia-monetaria/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2022-01-24-10-economia-monetaria">10 Economia Monetaria</a></li>
-<li><a href="https://aequilibria.netlify.app/posts/2022-01-31-11-modelos-de-empleo/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2022-01-31-11-modelos-de-empleo">11 Modelos De Empleo</a></li>
 <li><a href="https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp/index.pdf"><i class="fa-regular fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://aequilibria.netlify.app/posts/2025-05-11-teoria-y-politica-monetaria-bcrp">Teoria Y Politica Monetaria Bcrp</a></li>
 </ol>
 <!-- fragmento de inclusión — texto de cierre del bloque «Publicaciones similares» (incluido en cada post) -->
