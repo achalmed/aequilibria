@@ -50,7 +50,7 @@ Bitcoin, activo altamente especulativo.
 -   Dinámico, Ajuste de acuerdo a las necesidades
 -   Estocástico (aleatorio)
 
-::: {#41eb9a90 .cell}
+::: {#05ac209a .cell}
 ``` {.python .cell-code}
 import matplotlib.pyplot as plt
 import numpy as np
