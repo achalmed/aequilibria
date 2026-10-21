@@ -1,0 +1,10 @@
+# _documentos.tsv — GENERADO por scripts/documentos.py; no editar
+# Caché del modo documentos (render.sh --documentos): una fila por página y formato; la clave es el sha256 de la
+# fuente y de la fecha de la página; sha256 es el de la salida en _site/. Ver web/docs/decisiones.md §4.5.
+fuente	formato	salida	clave	sha256
+404.qmd	-	-	f18771244f4c958898cdac97638489b7fd79a55ef40c3906804ff242db747bf6	-
+index.qmd	-	-	d7c4da3b3dc173e58a092982b52b77088d851cd621303ba468ab6e2987d0339e	-
+posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017/index.qmd	apaquarto-docx	posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017/index.docx	903fe3cd8ab75f4b95aa628b31fbd7125151735974f22217e1181b541d8d50a0	35968017c8f414b4f6e440275d76e5c53903b656d6b19547c2520922c9332e5d
+posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017/index.qmd	apaquarto-pdf	posts/2017-12-30-comportamiento-de-la-inflacion-1980-a-2017/index.pdf	903fe3cd8ab75f4b95aa628b31fbd7125151735974f22217e1181b541d8d50a0	d83565dde5568645d063197dc6179a20de287bd441e3d422613e4c3dac419b99
+posts/2025-05-11-teoria-y-politica-monetaria-bcrp/index.qmd	apaquarto-docx	posts/2025-05-11-teoria-y-politica-monetaria-bcrp/index.docx	4f680e017cc63580088b4883eedb024bba334c0251f28f77e320fe32cd518eed	6944361d55040716384c46957455daeea9411890c4b2877bac1654fcb98cd6be
+posts/2025-05-11-teoria-y-politica-monetaria-bcrp/index.qmd	apaquarto-pdf	posts/2025-05-11-teoria-y-politica-monetaria-bcrp/index.pdf	4f680e017cc63580088b4883eedb024bba334c0251f28f77e320fe32cd518eed	e65afb6a6c325e2145502b1db3baa54244db7b5c51e1931b00666bdf93db1f3e
