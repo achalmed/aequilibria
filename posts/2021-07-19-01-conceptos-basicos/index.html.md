@@ -32,7 +32,8 @@ citation:
 date: 2021-07-19
 draft: true
 image: ../featured.jpg
-curso: macroeconomia_i
+curso: macroeconomia-ii
+tema: "1.1"
 ---
 
 Este artículo está actualmente en proceso de edición, y todas las secciones serán ampliadas y refinadas en futuras revisiones.
